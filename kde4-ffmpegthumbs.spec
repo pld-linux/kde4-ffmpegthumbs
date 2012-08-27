@@ -4,7 +4,7 @@
 
 Summary:	Video thumbnail generator for KDE
 Summary(pl.UTF-8):	Generator podglądów video dla KDE
-Name:		kde4-kdemultimedia
+Name:		kde4-%{orgname}
 Version:	4.9.0
 Release:	0.1
 License:	GPL v2+
